@@ -1,0 +1,7 @@
+Machine_ID,camera_id,priority,notes
+P703_L1,CAM-AV-031,1,Línea 1 prensado (principal)
+P703_L1,CAM-AV-032,2,Línea 1 vista lateral
+MC-02,CAM-AV-014,1,Estación MC-02 frontal
+MC-02,CAM-AV-015,2,Estación MC-02 superior
+MC-05,CAM-AV-021,1,—
+TEST01,CAM_DEMO,1

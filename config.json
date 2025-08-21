@@ -1,0 +1,19 @@
+{
+  "video_root": "C:\\qcalt\\videos",
+  "evidence_dir": "C:\\qcalt\\evidencia",
+  "temp_dir": "C:\\qcalt\\temp",
+
+  "ffmpeg": "C:\\qcalt\\ffmpeg\\ffmpeg-7.1.1-essentials_build\\bin\\ffmpeg.exe",
+  "ffprobe": "C:\\qcalt\\ffmpeg\\ffmpeg-7.1.1-essentials_build\\bin\\ffprobe.exe",
+
+  "segment_minutes": 10,
+  "hls_segment_seconds": 4,
+  "ttl_minutes": 30,
+  "timezone_offset": "-06:00",
+  "machine_map_csv": "C:\\qcalt\\machine_to_camera.csv",
+  "log_level": "info",
+  "allow_simulation": false,
+
+  "directory_template": "{camera_id}\\{YYYY}\\{MM}\\{DD}",
+  "filename_pattern": "{camera_id}_{YYYY}{MM}{DD}_{HH}{mm}{SS}.mp4"
+}
